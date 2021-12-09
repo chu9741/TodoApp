@@ -13,7 +13,7 @@ AddButton.addEventListener('click',()=>{
     }
 });
 
-let ul = document.querySelector('ul');
+//let ul = document.querySelector('ul');
 /*
 function SaveList() {
     localStorage.setItem("todos", JSON.stringify(todos)); // localStorage에 리스트 저장
