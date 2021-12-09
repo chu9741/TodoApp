@@ -10,12 +10,12 @@ HTML과 Javascript에 대한 지식이 사실상 거의 전무해 하나씩 공�
 
 
 
-Completed part
+-Completed part
 1. Add를 click또는 enter키를 눌러 input을 입력할 수 있습니다.
 2. 체크박스를 click하여 input string의 취소선을 긋습니다.
 
 
-Uncompleted part
+-Uncompleted part
 1. 로컬 스토리지 부분은 사용하지 못해서 데이터가 저장되진 않습니다.
 2. 체크박스를 위치조정하지 못했습니다. 
 3. delete키로 지우는 기능을 탑재하지 못했습니다. 
