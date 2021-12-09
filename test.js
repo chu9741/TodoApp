@@ -2,7 +2,6 @@ const AddButton = document.querySelector('#add-button');
 const list = document.querySelector('#list');
 const input = document.querySelector("#input");
 
-//'DOMcontentLoaded' = 브라우저가 HTML을 전부 읽고 DOM 트리를 완성하는 즉시 발생
 AddButton.addEventListener('click',()=>{ 
     const text = input.value.trim(); //trim은 양 끝 공백 제거
 
