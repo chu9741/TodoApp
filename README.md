@@ -9,6 +9,7 @@ HTML과 Javascript에 대한 지식이 사실상 거의 전무해 하나씩 공�
 이틀 정도밖에 안되는 시간으로 만들어 미흡한 부분이 많고 과제를 완성하진 못했습니다. 죄송합니다.
 
 
+
 Completed part
 1. Add를 click또는 enter키를 눌러 input을 입력할 수 있습니다.
 2. 체크박스를 click하여 input string의 취소선을 긋습니다.
